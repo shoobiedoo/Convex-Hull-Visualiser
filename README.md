@@ -1,4 +1,6 @@
-# Convex-Hull-Visualiser![class_convex_hull](https://user-images.githubusercontent.com/94536401/147400012-1ced7e38-56ae-4894-973e-7cb12d20e409.png)
+# Convex-Hull-Visualiser![class_convex_hull]
+
+(https://user-images.githubusercontent.com/94536401/147400012-1ced7e38-56ae-4894-973e-7cb12d20e409.png)
 
 Visualising various convex hull algorithms for 3 major algorithms: Kirk Patrick Siedel,Graham Scan and Jarvis March
 ![convex_1](https://user-images.githubusercontent.com/94536401/147399999-e2370f8c-05d8-4930-967a-eeb232248bb5.png)
